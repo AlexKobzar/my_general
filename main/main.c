@@ -115,6 +115,7 @@ uint8_t  period_extended_status = 0;
 uint8_t  faultTimer = 0;              // timer fault period, sec
 
 
+#define TEST
 #define PULSE_IN_PROGRESS     C2OUT
 #define BL_FAULT              input_state(PIN_BL)
 #define LOAD_GOOD             input_state(PIN_CMP_REV)

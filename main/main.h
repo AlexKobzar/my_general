@@ -2,7 +2,7 @@
 #ifndef MAIN_H   
 #define MAIN_H
 
-#include "../FUSE.h" 
+#include "drivers\FUSE.h" 
 
 #define ON 1
 #define OFF 0
