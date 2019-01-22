@@ -9,7 +9,7 @@
 #include <stdlib.h> 
 #include <math.h>
 
-//!#define PROTEUS   // ***********************************************
+#define PROTEUS   // ***********************************************
 
 
 #define COMPARATOR

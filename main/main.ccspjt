@@ -23,7 +23,7 @@ Type=4
 1=main.c
 
 [ProjectLog]
-Days=188
+Days=190
 D1=16-06-2015
 D1_L=16
 D1_L1=[48862]Project Opened.
@@ -41,7 +41,7 @@ D1_L12=[58115]Started Editing.
 D1_L13=[58599]Stopped Editing.
 D1_L14=[58733]Started Editing.
 D1_L15=[59470]Stopped Editing.
-TotalEdit=3704
+TotalEdit=3705
 TotalDebug=0
 D1_E=25
 D1_D=0
@@ -2813,10 +2813,22 @@ D188_L7=[82709]Stopped Editing.
 D188_L8=[82709]Project Closed.
 D188_L9=[82776]Project Opened.
 D188_L10=[82860]Project Closed.
+D189=22-11-2018
+D189_L=2
+D189_L1=[80534]Project Opened.
+D189_L2=[80550]Project Closed.
+D190=22-01-2019
+D190_L=4
+D190_L1=[81854]Project Opened.
+D190_L2=[81870]Started Editing.
+D190_L3=[81885]Stopped Editing.
+D190_E=1
+D190_D=0
+D190_L4=[81885]Project Closed.
 
 [Opened Files]
 1=main.c
-t1=85
+t1=1
 Count=11
 2=drivers\PORT_UART\port_uart.c
 t2=1
@@ -2861,7 +2873,7 @@ OptionString=
 AdditionalOptionString=
 
 [defines]
-buildcount=2165
+buildcount=2167
 enabled=0
 chip=1
 D1=
